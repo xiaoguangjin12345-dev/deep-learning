@@ -1,5 +1,0 @@
-{
-  "python.defaultInterpreterPath": "/home/xiaoguangjin/miniconda3/envs/tf-course/bin/python",
-  "python.condaPath": "/home/xiaoguangjin/miniconda3/bin/conda",
-  "python.terminal.activateEnvironment": true
-}
