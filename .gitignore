@@ -47,3 +47,7 @@ checkpoints/
 build/
 dist/
 *.egg-info/
+
+# dataset
+*.npz
+ex-2/*.json
