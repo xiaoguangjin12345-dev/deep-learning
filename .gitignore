@@ -51,3 +51,5 @@ dist/
 # dataset
 *.npz
 ex-2/*.json
+
+ex-2/data
