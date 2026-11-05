@@ -53,6 +53,7 @@ dist/
 ex-2/*.json
 ex-1/ex-1.1/data/
 ex-2/ex-2.4/data/
+ex-3/ex-3.2/data/
 
 # Generated results live beside their single source notebook
 **/outputs/
